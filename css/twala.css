@@ -6,6 +6,10 @@ body {
 	opacity: 0.8;
 }
 
+.hidden-character {
+  font-size: 1px;
+  visibility: hidden;
+}
 .no-link {
   color: #4c9ed9;
 }
