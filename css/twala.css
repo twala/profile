@@ -1,3 +1,7 @@
+body {
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 100;
+}
 .blur {
 	opacity: 0.8;
 }
