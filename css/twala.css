@@ -415,6 +415,17 @@ span.tooltip.t-aicee:hover:before {
     margin-left: -350px;
 }
 
+@media screen and (max-width: 480px){
+  .tooltip-content.hiro {
+    margin-left: -200px;
+  }
+  .tooltip-content.hiro::after {
+    margin-left: 15px;
+  }
+  .tooltip-content img {
+    height: 140px !important;
+  }
+}
 
 @media screen and (min-width: 481px) and (max-width:637px){
   .tooltip-content.hiro {
