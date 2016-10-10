@@ -5,21 +5,7 @@ body {
 .blur {
 	opacity: 0.8;
 }
-.middle-button {
-  z-index: 999;
-  background: #ff0000;
-  position: absolute;
-  margin-left: auto;
-  margin-right: auto;
-  left: 0;
-  right: 0;
-  top: 50%;
-  background: rgba(0,0,0,0.8);
-  border: none;
-  font-size: 28px;
-  padding: 1em;
-  color: #fff;
-}
+
 .hidden-character {
   font-size: 1px;
   visibility: hidden;
