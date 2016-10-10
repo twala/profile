@@ -462,11 +462,11 @@ span.tooltip.t-aicee:hover:before {
 
 @media screen and (min-width: 1680px){
   .tooltip-content.hiro {
-    margin-left: -550px;
+    margin-left: -350px;
   }
 
   .tooltip-content.hiro::after {
-    margin-left: 365px;
+    margin-left: 165px;
   }
 }
 
